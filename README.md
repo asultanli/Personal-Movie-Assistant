@@ -22,8 +22,8 @@ A chatbot application designed to assist users in exploring and discovering movi
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-   cd your-repository-name
+   git clone [https://github.com/your-username/your-repository-name.git](https://github.com/asultanli/Personal-Movie-Assistant.git)
+   cd Personal-Movie-Assistant
    ```
 
 2. **Install Python Packages**:
